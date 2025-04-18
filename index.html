@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pin notes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form id="note-form">
+        <h2>Pin it Wall</h2>
+        <textarea id="note" rows="4" cols="50" maxlength="200" placeholder="Write your note here...."></textarea><br>
+        <label for="color">Select color</label>
+        <select id="color">
+            <option value="red">Red</option>
+            <option value="blue">Blue</option>
+            <option value="green">Green</option>
+            <option value="Yellow">Yellow</option>
+            <option value="Purple">Purple</option>
+        </select><br><br>
+        <div class="btn"> 
+            <button onclick="pinNotes()" type="button" id="pin">Pin Note</button>
+            <button type="button" id="clear" onclick="clearAllNotes()">Clear notes</button>
+        </div>
+    </form>
+    <div class="pined-notes" id="notes-container">
+        <!-- Notes will be added here dynamically -->
+        
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
