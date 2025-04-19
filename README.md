@@ -1,9 +1,11 @@
 # Pin it Wall
 
 #view Live
-(https://pin-notes-kui64hpcs-brians-projects-bcfd072c.vercel.app):
 
-##About 
+Open to view live (https://pin-notes-kui64hpcs-brians-projects-bcfd072c.vercel.app):
+
+##About
+
 A simple web app to pin colorful notes on a virtual wall. Write your notes, select a color, and pin them dynamically. You can also clear all pinned notes.
 
 ## Screenshot
