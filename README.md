@@ -1,6 +1,6 @@
 # Pin it Wall
 
-##view vile
+##view Live
 
 This project can be easily deployed on [Vercel](https://pin-notes-kui64hpcs-brians-projects-bcfd072c.vercel.app):
 #About 
