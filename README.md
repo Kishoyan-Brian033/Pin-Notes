@@ -1,7 +1,6 @@
 # Pin it Wall
 
-##view Live
-
+#view Live
 (https://pin-notes-kui64hpcs-brians-projects-bcfd072c.vercel.app):
 
 ##About 
